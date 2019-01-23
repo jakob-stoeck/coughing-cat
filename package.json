@@ -1,0 +1,16 @@
+{
+  "name": "coughing-cat",
+  "version": "1.0.0",
+  "description": "Amazon Product API Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-product-api": "^0.4.4",
+    "dotenv": "^6.2.0",
+    "util": "^0.11.1"
+  }
+}
